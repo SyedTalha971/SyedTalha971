@@ -1,4 +1,4 @@
-[![MasterHead]([(https://th.bing.com/th/id/OIP.2s75Hwrhy8m9nBU66JDbAQHaEK?rs=1&pid=ImgDetMain)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/OIP.2s75Hwrhy8m9nBU66JDbAQHaEK?rs=1&pid=ImgDetMain)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Syed Talha</h1>
 <h3 align="center">A student of full stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

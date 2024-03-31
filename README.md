@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maryam Jamil</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Syed Talha</h1>
+<h3 align="center">A passionate frontend & Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamjami1&label=Profile%20views&color=0e75b6&style=flat" alt="maryamjami1" /> </p>
 
